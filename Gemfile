@@ -32,6 +32,17 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+#postgres
+gem 'pg'
+#devise
+gem 'devise'
+#annotate agrega comentarios en el modelo el esquema de la tabla
+gem 'annotate'
+#Pa subir archivos
+gem 'paperclip'
+
+
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
