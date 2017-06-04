@@ -12,4 +12,10 @@
  *
  *= require_tree .
  *= require_self
+ *= require bootstrap/dist/css/bootstrap
  */
+.cuerpo {
+  background-color:#7CFBFF;
+}
+
+
